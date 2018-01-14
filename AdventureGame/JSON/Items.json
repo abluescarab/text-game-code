@@ -1,0 +1,9 @@
+﻿[
+  {
+    "ID": 0,
+    "Name": "Your House",
+    "ShortDesc": "Home, sweet home.",
+    "LongDesc": "Your house. There's an L-shaped oak desk in the southeast corner, with a door along the west wall. A simple bed is situated in the northeast corner, a short table with a single drawer to the left of the pillows. The rest of the room is bare.",
+    "Use": "return 0;"
+  }
+]
