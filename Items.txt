@@ -1,0 +1,17 @@
+Weapons								Armor
+===================					===================
+Sword								Cloth
+Hammer/Mace							Fur
+War Axe								Leather
+Staves								Scale
+Polearms							Chain
+(Cross)bows							Plate
+
+Types
+-------------------------------------------------------
+Stone								
+Copper
+Bronze
+Iron
+Steel
+
